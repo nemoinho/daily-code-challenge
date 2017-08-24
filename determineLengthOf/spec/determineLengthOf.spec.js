@@ -60,4 +60,8 @@ describe("determineLengthOf", () => {
         const length = determineLengthOf(arrayEndingWithEmptySpots);
         expect(length).toBe(arrayEndingWithEmptySpots.length);
     });
+
+    it("should crash if the given parameter is not an array", () => {
+        expect(() => determineLengthOf("abc")).toThrow();
+    });
 });
