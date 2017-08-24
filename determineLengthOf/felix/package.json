@@ -1,0 +1,14 @@
+{
+  "name": "determineLengthOf-daliy-code-challenge",
+  "version": "1.0.0",
+  "description": "We assume Array.prototype.length is not working correctly and we have to build a function which work arround that issue. So everything is allowed to determine the length of an Array except of the .length-property.",
+  "main": "index.js",
+  "author": "Felix Nehrke",
+  "license": "GPL-3.0",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "devDependencies": {
+    "jasmine": "^2.7.0"
+  }
+}
