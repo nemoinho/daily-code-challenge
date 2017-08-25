@@ -15,3 +15,5 @@ class UserGroup {
         return null;
     }
 }
+
+module.exports = UserGroup;

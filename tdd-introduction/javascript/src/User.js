@@ -20,3 +20,5 @@ class User {
         return null;
     }
 }
+
+module.exports = User;
