@@ -1,0 +1,14 @@
+{
+    "name": "tdd-introduction/php",
+    "description": "This is a short example of how a TDD-Setup may look right at the beginning",
+    "type": "project",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Felix Nehrke",
+            "email": "felix+tdd-introduction@nehrke.info"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
