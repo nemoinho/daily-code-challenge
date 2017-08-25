@@ -1,0 +1,8 @@
+{
+  "name": "tdd-introduction-javascript",
+  "version": "1.0.0",
+  "description": "This is a short example of how a TDD-Setup may look right at the beginning",
+  "main": "index.js",
+  "author": "Felix Nehrke <felix+tdd-introduction@nehrke.info>",
+  "license": "GPL-3.0"
+}
