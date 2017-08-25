@@ -5,6 +5,9 @@
   "main": "index.js",
   "author": "Felix Nehrke <felix+tdd-introduction@nehrke.info>",
   "license": "GPL-3.0",
+  "scripts": {
+    "test": "jasmine"
+  },
   "devDependencies": {
     "jasmine": "^2.8.0"
   }
