@@ -1,4 +1,5 @@
 <?php
 
-class UserGroup {
+class UserGroup
+{
 }
