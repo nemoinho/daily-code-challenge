@@ -18,3 +18,4 @@ This project contains of two similiar implementations of the given situation. On
 ## Task
 The project-initialter had already started the TDD-process by setting up a stub of the given situation. After that he started immediately with implementing the tests, to make sure that his future implementation fullfills the references. But he had to stop working on the project and now you have to write the missing tests.
 
+Choose one of the given languages (or both maybe) and write the needed tests for the project.
