@@ -1,8 +1,6 @@
 <?php
 use PHPUnit\Framework\TestCase;
 
-use User;
-
 class UserGroupTest extends TestCase
 {
     public function testGetAdminReturnsAUserInstance()
